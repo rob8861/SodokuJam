@@ -1,0 +1,32 @@
+-- project requirements
+
+The Challenge:
+Develop a Swift App to generate Sudoku puzzle.
+
+Expected behavior:
+Upon launching the app, user should be able to select a difficulty level and then be presented with a new Sudoku puzzle.
+
+Programmatically (no storyboard) create the user interface for all screens.
+
+The board is comprised of a 9×9 matrix, divided into 9 sub sections
+Each square can have a number from 1 to 9
+Numbers must be unique per row
+Numbers must be unique per column
+Numbers must be unique per section
+The puzzle should have at most 35 of out 81 spaces filled
+Each puzzle should have only one solution
+
+The App should be able to accept a user’s inputs and validate the solution.
+
+There are no design requirements for this application, simply follow the iOS Human Interface Guidelines, however we strongly encourage you to add bells and whistles to set yourself apart and show off some of your skills.
+
+Use of the following Cocoapods is required, but you may use additional pods if desired.
+Snapkit
+
+The code will be evaluated based on:
+Algorithm used for generator
+Performance
+Code structure
+Object Oriented Programing
+Commenting
+iOS best practices.
